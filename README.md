@@ -1,4 +1,5 @@
 🛠️ Coming Soon...
+
 Use the [Manifest V2 version](https://github.com/majin-cs/PicWiz-Legacy) in the mean time.
 ___
 
